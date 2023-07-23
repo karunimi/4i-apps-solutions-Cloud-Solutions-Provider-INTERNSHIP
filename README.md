@@ -20,4 +20,4 @@
    + knn model
    + Naive Bayes model
  
-NOTE: The result value may vary  each and everytime you run it.So, you may not get the same result as I got.
+NOTE: The result value may vary  each and everytime you run it. So, you may not get the same result as I got.
